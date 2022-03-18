@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* nav {
+    background-image: url("https://image.shutterstock.com/image-vector/vector-abstract-blue-wavy-background-260nw-187356644.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 21.5rem;
+    background-position: left;
+    height: 3.5rem;
+    color: #fff;
+    padding: 2rem;
+} */
+.space{
+    justify-content: space-between;
+}
+
+.bd-navbar{
+    padding: 1.5rem;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+    min-height: 4rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 5%), inset 0 -1px 0 rgb(0 0 0 / 10%);
+}
+
+.grp {
+    padding: 0.5rem;
+}
+.obj{
+    margin: 0.35rem;
+    box-shadow: 5px 5px 0px rgb(0 0 0 / 10%)
+}
+.img {
+    max-width: 8rem;
+    margin: auto;
+}

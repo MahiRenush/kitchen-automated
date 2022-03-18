@@ -1,0 +1,65 @@
+[
+    {
+      "title": "rice",
+      "type": "grocery",
+      "current": 10,
+      "threshold": 3,
+      "max": 10
+    },
+    {
+      "title": "wheat",
+      "type": "grocery",
+      "current": 6,
+      "threshold": 3,
+      "max": 10
+    },
+    {
+      "title": "flour",
+      "type": "grocery",
+      "current": 5,
+      "threshold": 2,
+      "max": 10
+    },
+    {
+      "title": "sugar",
+      "type": "grocery",
+      "current": 2,
+      "threshold": 3,
+      "max": 10
+    },
+    {
+        "title": "dhal",
+        "type": "grocery",
+        "current": 1,
+        "threshold": 3,
+        "max": 10
+    },
+    {
+        "title": "coffee powder",
+        "type": "grocery",
+        "current": 1,
+        "threshold": 2,
+        "max": 10
+    },
+    {
+        "title": "Chilly powder",
+        "type": "grocery",
+        "current": 2,
+        "threshold": 3,
+        "max": 10
+      },
+      {
+          "title": "Maida",
+          "type": "grocery",
+          "current": 6,
+          "threshold": 4,
+          "max": 10
+      },
+      {
+          "title": "Flour",
+          "type": "grocery",
+          "current": 5,
+          "threshold": 3,
+          "max": 10
+      }
+  ]
